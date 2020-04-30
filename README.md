@@ -1,5 +1,11 @@
 # bmicalculator
 
+Modern UI Application
+
+UI Design Credits :  Ruben Vaalt | Dribbble
+https://dribbble.com/shots/4585382-Simple-BMI-Calculator/attachments/1036694
+
+
 A new Flutter application.
 
 ## Getting Started
